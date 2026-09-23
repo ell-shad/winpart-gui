@@ -344,5 +344,3 @@ Developed with assistance from Qwen.
 ## License
 
 MIT License.
-
-See `LICENSE`.
