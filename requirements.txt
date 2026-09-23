@@ -1,0 +1,3 @@
+# Optional modern theme.
+# The app also works without this using the built-in dark theme.
+ttkbootstrap>=1.10.0
