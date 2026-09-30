@@ -1,7 +1,7 @@
 # NTFS Partition Manager for Linux
 
 A Linux GUI utility for safely inspecting, mounting, browsing, and copying files from NTFS partitions commonly used by Windows installations.
-
+![Winpart GUI Main Tab](assets/winpart.png)
 This tool is especially useful when Linux refuses to mount an NTFS partition because the Windows installation was hibernated or Fast Startup is enabled.
 
 > Developed with assistance from Qwen.
